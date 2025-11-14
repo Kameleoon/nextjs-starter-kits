@@ -21,7 +21,7 @@ Each example showcases a different integration approach:
 - **Pages Router** *(deprecated in newer Next.js versions)*:
   - [SSR Provider](./react-ssr-provider-pages-router/)
 
-### Mixed Integrations
+### Hybrid Integrations
 
 - **App Router**:
-  - [Route Handler + SSR Provider](./mix-route-handler-ssr-provider-app-router/)
+  - [Route Handler + SSR Provider](./hybrid-route-handler-ssr-provider-app-router/)

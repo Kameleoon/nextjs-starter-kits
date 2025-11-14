@@ -5,7 +5,7 @@ import { KameleoonRequester } from "@kameleoon/nodejs-requester";
 import { KameleoonVisitorCodeManager } from "@kameleoon/nextjs-visitor-code-manager";
 
 // --- Kameleoon SDK credentials and site configuration ---
-const SITE_CODE = "sitecode"; // Your Kameleoon site code
+const SITE_CODE = "og6g1fquwx"; // Your Kameleoon site code
 const CLIENT_ID = "client_id"; // SDK client ID
 const CLIENT_SECRET = "client_secret"; // SDK client secret
 
