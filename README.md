@@ -16,12 +16,12 @@ Each example showcases a different integration approach:
 ### Client-Side Integrations
 
 - **App Router**:
-  - [SSR Provider](./react-ssr-provider-app-router/) – simpler and recommended
-  - [Custom Provider](./react-custom-provider-app-router/) – use only if custom external dependencies are required for Kameleoon
+  - [SSR Provider](./react-provider-ssr-app-router/) – simpler and recommended
+  - [Custom Provider](./react-provider-custom-app-router/) – use only if custom external dependencies are required for Kameleoon
 - **Pages Router** *(deprecated in newer Next.js versions)*:
-  - [SSR Provider](./react-ssr-provider-pages-router/)
+  - [SSR Provider](./react-provider-ssr-pages-router/)
 
 ### Hybrid Integrations
 
 - **App Router**:
-  - [Route Handler + SSR Provider](./hybrid-route-handler-ssr-provider-app-router/)
+  - [Route Handler + SSR Provider](./hybrid-route-handler-provider-ssr-app-router/)
